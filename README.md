@@ -1,6 +1,5 @@
 # TaskFlow - Aplicativo de Gerenciamento de Tarefas 📋✅
 
-![TaskFlow Logo](assets/images/logo.png)
 
 TaskFlow é um aplicativo de gerenciamento de tarefas intuitivo e elegante, desenvolvido em Flutter, que ajuda você a organizar suas atividades diárias de forma eficiente.
 
